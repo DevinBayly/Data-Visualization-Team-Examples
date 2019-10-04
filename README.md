@@ -12,7 +12,7 @@ This repo will host the examples of data visualizations created by the Research 
 
 ### South West Pots
 
-* Final web VR capable version of scene can be found [here](https://sparkly-touch.glitch.me/) on glitch
+* Final web VR capable version of scene can be found [here](https://jewel-dingo.glitch.me) on glitch
 * To trigger the VR click the icon in the bottom right corner
 
 * Data for pots 
