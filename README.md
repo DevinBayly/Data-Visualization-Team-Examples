@@ -14,3 +14,7 @@ This repo will host the examples of data visualizations created by the Research 
 
 * Final web VR capable version of scene can be found [here](https://sparkly-touch.glitch.me/)
 * To trigger the VR click the icon in the bottom right corner
+
+* Data for pots 
+  * [SW-Pots unity compiled file](https://drive.google.com/drive/folders/15X2RFoWnB7OCphnI6eU6I5GFCBrPQgx5?usp=sharing)
+  * [SW-pots unity assets](https://drive.google.com/open?id=1YRVeARvfWSjvlJXniAM7Ag2USGwxo81T)
