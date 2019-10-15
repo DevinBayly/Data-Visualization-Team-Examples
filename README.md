@@ -19,7 +19,7 @@ This repo will host the examples of data visualizations created by the Research 
   * [SW-Pots unity compiled file](https://drive.google.com/drive/folders/15X2RFoWnB7OCphnI6eU6I5GFCBrPQgx5?usp=sharing)
   * [SW-pots unity assets](https://drive.google.com/open?id=1YRVeARvfWSjvlJXniAM7Ag2USGwxo81T)
 
-#Data Analysis Examples
-##Iso-surface Reconstruction
-###D. Melanogaster Glial Cell
+# Data Analysis Examples
+## Iso-surface Reconstruction
+### D. Melanogaster Glial Cell
 * Video of raw data volume and its reconstruction by Imaris can be found here [here](https://youtu.be/mmG_22AdiqI) on youtube
