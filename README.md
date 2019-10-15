@@ -22,4 +22,4 @@ This repo will host the examples of data visualizations created by the Research 
 # Data Analysis Examples
 ## Iso-surface Reconstruction
 ### D. Melanogaster Glial Cell
-* Video of raw data volume and its reconstruction by Imaris can be found here [here](https://youtu.be/mmG_22AdiqI) on youtube
+* Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found here [here](https://youtu.be/mmG_22AdiqI) on youtube
