@@ -28,6 +28,10 @@ This repo will host the examples of data visualizations created by the Research 
 ### Spots within a set radius around a surface object. EMPTY
 * Video ([src]())
 
+## Tracking
+### Adipose Microtubule +end tip associated tracking
+* Video ([src](https://drive.google.com/file/d/1qpThDGqehlAxy3K0h8kYungXqsaSdxpy/view?usp=sharing)).  Clasp2 +end tip Microtubule associated protein tracking over timecourse after insulin application. Video and links to lab and publication can be found here [here](https://youtu.be/fCsVCzbcEZo)
+
 # Modeling Projects
 ## Video Reconstruction from tracking data
 ### Eye Tracking Simulation
