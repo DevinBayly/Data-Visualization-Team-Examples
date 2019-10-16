@@ -26,4 +26,4 @@ This repo will host the examples of data visualizations created by the Research 
 
 # Modeling Projects
 ## Video Reconstruction from tracking data
-###Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
+### Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
