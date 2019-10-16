@@ -24,6 +24,15 @@ This repo will host the examples of data visualizations created by the Research 
 ### D. Melanogaster Glial Cell
 * Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found here [here](https://youtu.be/mmG_22AdiqI) on youtube
 
+## Quantification
+### Spots within a set radius around a surface object.
+* Video ([src]())
+
 # Modeling Projects
 ## Video Reconstruction from tracking data
-### Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
+### Eye Tracking Simulation
+* Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
+
+## Animated Scientific Methods
+### MiniLEO methods
+* Video ([src]()) of animated methods for the MiniLEO project done at the request of Yadi Wang.  The video can be found here [here]()
