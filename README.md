@@ -23,3 +23,7 @@ This repo will host the examples of data visualizations created by the Research 
 ## Iso-surface Reconstruction
 ### D. Melanogaster Glial Cell
 * Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found here [here](https://youtu.be/mmG_22AdiqI) on youtube
+
+# Modeling Projects
+## Video Reconstruction from tracking data
+###Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
