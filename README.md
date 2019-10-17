@@ -10,6 +10,21 @@ This repo will host the examples of data visualizations created by the Research 
 
 ## VR
 
+### Domoni Crater Mars
+
+* Final web VR version [https://lava-step.glitch.me](https://lava-step.glitch.me)
+* model files 
+  * glb [here](https://drive.google.com/open?id=1fN75AnQdRZNmgPuQZZMYTtzLDAnaOCA6)
+  
+  
+### Spider Room Psychology Experiment
+
+* Final web VR version [http://held-alamosaurus.glitch.me/](http://held-alamosaurus.glitch.me/)
+* model files
+ * room file [https://drive.google.com/open?id=15q5EBs8lwo5ZNtUOHqi1IlRRJEzb_fEH](https://drive.google.com/open?id=15q5EBs8lwo5ZNtUOHqi1IlRRJEzb_fEH)
+ * roof spider [https://drive.google.com/open?id=1A8kyBB-ToSVog5Oi9n4q7SqF_-twUisV](https://drive.google.com/open?id=1A8kyBB-ToSVog5Oi9n4q7SqF_-twUisV)
+ * platform spider [jumping spider](https://drive.google.com/open?id=1aWFmB6U2iQQBJcVSqXuU6W4yq3Ga3Ium)
+
 ### South West Pots
 
 * Final web VR capable version of scene can be found [here](https://jewel-dingo.glitch.me) on glitch
