@@ -21,9 +21,9 @@ This repo will host the examples of data visualizations created by the Research 
 
 * Final web VR version [http://held-alamosaurus.glitch.me/](http://held-alamosaurus.glitch.me/)
 * model files
- * room file [https://drive.google.com/open?id=15q5EBs8lwo5ZNtUOHqi1IlRRJEzb_fEH](https://drive.google.com/open?id=15q5EBs8lwo5ZNtUOHqi1IlRRJEzb_fEH)
- * roof spider [https://drive.google.com/open?id=1A8kyBB-ToSVog5Oi9n4q7SqF_-twUisV](https://drive.google.com/open?id=1A8kyBB-ToSVog5Oi9n4q7SqF_-twUisV)
- * platform spider [jumping spider](https://drive.google.com/open?id=1aWFmB6U2iQQBJcVSqXuU6W4yq3Ga3Ium)
+  * room file [https://drive.google.com/open?id=15q5EBs8lwo5ZNtUOHqi1IlRRJEzb_fEH](https://drive.google.com/open?id=15q5EBs8lwo5ZNtUOHqi1IlRRJEzb_fEH)
+  * roof spider [https://drive.google.com/open?id=1A8kyBB-ToSVog5Oi9n4q7SqF_-twUisV](https://drive.google.com/open?id=1A8kyBB-ToSVog5Oi9n4q7SqF_-twUisV)
+  * platform spider [jumping spider](https://drive.google.com/open?id=1aWFmB6U2iQQBJcVSqXuU6W4yq3Ga3Ium)
 
 ### South West Pots
 
