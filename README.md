@@ -40,7 +40,7 @@ Built originally for Sarah Beth Burger, Department of Psychology, as part of her
 ## Iso-surface Reconstruction
 ### D. Melanogaster Glial Cell
 Data owner is Dr. Lynne Oland, and Ernesto Hernandez of the University of Arizona Department of Neuroscience. Reconstruction and animation done by Christine Deer of UITS Research Technologies Data Visualization Team.  Shared with permission.
-* Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found here [here](https://youtu.be/mmG_22AdiqI) on youtube
+* Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found [here](https://youtu.be/mmG_22AdiqI) on youtube
 
 ## Quantification
 ### Spots within a set radius around a surface object. EMPTY
@@ -49,8 +49,8 @@ Data owner is Dr. Lynne Oland, and Ernesto Hernandez of the University of Arizon
 ## Tracking
 ### Adipose Microtubule +end tip associated tracking
 Data owner is Dr. Paul Langlais, and Sara Parker of the University of Arizona College of Medicine.  Spot tracking done manually using Imaris by Christine Deer of UITS Research Technologies Data Visualization Team. Shared with permission.  
-* Video ([src](https://drive.google.com/file/d/1qpThDGqehlAxy3K0h8kYungXqsaSdxpy/view?usp=sharing)).  Clasp2 +end tip Microtubule associated protein tracking over timecourse after insulin application. Video and links to lab and publication can be found here [here](https://youtu.be/fCsVCzbcEZo)
-* Lab [website] (https://langlaislab.medicine.arizona.edu/)
+* Video ([src](https://drive.google.com/file/d/1qpThDGqehlAxy3K0h8kYungXqsaSdxpy/view?usp=sharing)).  Clasp2 +end tip Microtubule associated protein tracking over timecourse after insulin application. Video and links to lab and publication can be found [here](https://youtu.be/fCsVCzbcEZo)
+* Lab [website](https://langlaislab.medicine.arizona.edu/)
 * Publication using the analysis shown above can be found [here](https://www.ncbi.nlm.nih.gov/pubmed/31018989)
 
 # Modeling Projects
