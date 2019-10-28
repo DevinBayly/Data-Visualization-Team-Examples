@@ -18,7 +18,7 @@ This repo will host the examples of data visualizations created by the Research 
   
   
 ### Spider Room Psychology Experiment
-Built originally for Sarah Beth Burger, Department of Psychology, as part of her research into Phobia Psychotherapy in Virtual Reality.  Her dissertation can be found at [here](https://repository.arizona.edu/bitstream/handle/10150/222891/azu_etd_12052_sip1_m.pdf?sequence=1&isAllowed=y)
+Built originally for Sarah Beth Burger, Department of Psychology, as part of her research into Phobia Psychotherapy in Virtual Reality.  Her dissertation can be found [here](https://repository.arizona.edu/bitstream/handle/10150/222891/azu_etd_12052_sip1_m.pdf?sequence=1&isAllowed=y)
 
 * Final web VR version [http://held-alamosaurus.glitch.me/](http://held-alamosaurus.glitch.me/)
 * model files
