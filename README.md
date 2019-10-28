@@ -18,6 +18,7 @@ This repo will host the examples of data visualizations created by the Research 
   
   
 ### Spider Room Psychology Experiment
+Built originally for Sarah Beth Burger, Department of Psychology, as part of her research into Phobia Psychotherapy in Virtual Reality.  Her dissertation can be found at [here](https://repository.arizona.edu/bitstream/handle/10150/222891/azu_etd_12052_sip1_m.pdf?sequence=1&isAllowed=y)
 
 * Final web VR version [http://held-alamosaurus.glitch.me/](http://held-alamosaurus.glitch.me/)
 * model files
@@ -28,7 +29,7 @@ This repo will host the examples of data visualizations created by the Research 
 ### South West Pots
 
 * Final web VR capable version of scene can be found [here](https://jewel-dingo.glitch.me) on glitch
-* To trigger the VR click the icon in the bottom right corner
+* To trigger the VR click the icon in the bottom right corner.  Built originally for Arizona State Museum's Dr. Douglass Gann, Center for Desert Archeology, in 2008.
 
 * Data for pots 
   * [SW-Pots unity compiled file](https://drive.google.com/drive/folders/15X2RFoWnB7OCphnI6eU6I5GFCBrPQgx5?usp=sharing)
