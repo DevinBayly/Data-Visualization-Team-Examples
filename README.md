@@ -11,6 +11,7 @@ This repo will host the examples of data visualizations created by the Research 
 ## VR
 
 ### Domoni Crater Mars
+Originally built for Dr. Alfred McEwen, Sarah Mattson, and Nilofur Emami of the University of Arizona's Planetary Image Research Lab.  
 
 * Final web VR version [https://lava-step.glitch.me](https://lava-step.glitch.me)
 * model files 
@@ -38,6 +39,7 @@ Built originally for Sarah Beth Burger, Department of Psychology, as part of her
 # Data Analysis Examples
 ## Iso-surface Reconstruction
 ### D. Melanogaster Glial Cell
+Data owner is Dr. Lynne Oland, and Ernesto Hernandez of the University of Arizona Department of Neuroscience. Reconstruction and animation done by Christine Deer of UITS Research Technologies Data Visualization Team.  Shared with permission.
 * Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found here [here](https://youtu.be/mmG_22AdiqI) on youtube
 
 ## Quantification
@@ -46,11 +48,15 @@ Built originally for Sarah Beth Burger, Department of Psychology, as part of her
 
 ## Tracking
 ### Adipose Microtubule +end tip associated tracking
+Data owner is Dr. Paul Langlais, and Sara Parker of the University of Arizona College of Medicine.  Spot tracking done manually using Imaris by Christine Deer of UITS Research Technologies Data Visualization Team. Shared with permission.  
 * Video ([src](https://drive.google.com/file/d/1qpThDGqehlAxy3K0h8kYungXqsaSdxpy/view?usp=sharing)).  Clasp2 +end tip Microtubule associated protein tracking over timecourse after insulin application. Video and links to lab and publication can be found here [here](https://youtu.be/fCsVCzbcEZo)
+*Lab [website] (https://langlaislab.medicine.arizona.edu/)
+*Publication using the analysis shown above can be found [here](https://www.ncbi.nlm.nih.gov/pubmed/31018989)
 
 # Modeling Projects
 ## Video Reconstruction from tracking data
 ### Eye Tracking Simulation
+Data Owner is Dr. Jim Schweigerling and Eddie LaVilla of the University of Arizona Department of Optics.  Blender simulation of eye position by Christine Deer of the UITS Research Technologies Data Visualization Team.  Shared with permission.
 * Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
 
 ## Animated Scientific Methods
