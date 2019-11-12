@@ -4,6 +4,8 @@
 
 ![](https://drive.google.com/uc?expert=download&id=1gr1N6E1zURNMqfPGNDiqy5QsupdF8SQ9)
 
+**iSpace/Catalyst Studios Tuesdays 2-4**
+
   Need help with basic 3D model creation in Blender? Or how to create a Virtual Reality app/experience on the web with A-Frame? Want to put these two things together? Come on in during drop in hours with your questions or  your wild ideas and we will try to bring them to life!
 
   Devin Bayly is a member of the Research Technologies Data Visualization team here at the University of Arizona. He works with researchers, students, and faculty to tell stories and communicate ideas with visualizations on and off the web.
