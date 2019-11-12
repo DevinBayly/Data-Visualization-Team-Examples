@@ -6,7 +6,7 @@
   Devin Bayly is a member of the Research Technologies Data Visualization team here at the University of Arizona. He works with researchers, students, and faculty to tell stories and communicate ideas with visualizations on and off the web.
 
 
-![](https://drive.google.com/file/d/1gr1N6E1zURNMqfPGNDiqy5QsupdF8SQ9/view?usp=sharing)
+![](https://drive.google.com/uc?expert=download&id=1gr1N6E1zURNMqfPGNDiqy5QsupdF8SQ9)
 
 
 # Data-Visualization-Team-Examples
