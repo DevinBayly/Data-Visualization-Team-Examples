@@ -79,3 +79,9 @@ Data Owner is Dr. Jim Schweigerling and Eddie LaVilla of the University of Arizo
 ## Animated Scientific Methods
 ### MiniLEO methods EMPTY
 * Video ([src]()) of animated methods for the MiniLEO project done at the request of Yadi Wang.  The video can be found here [here]()
+
+# Example Video Loops
+
+This is a short 15 minute video with the examples shown at the Catalyst Studio Soft Opening on 11/2/19.
+
+https://youtu.be/ysR1qcNH_Kk
