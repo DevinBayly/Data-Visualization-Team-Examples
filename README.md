@@ -1,5 +1,29 @@
 # Drop in Offerings
 
+## Maptime: making 3d landscape models
+
+This section covers the potential offerings of a Maptime session. The session will roughly comprise of collection of USGS shaded relief files, processing of the relief image in Blender, and exporting to view on the web. It should be noted that many different initial and final steps can be used with this workflow,  those selected (terrain-party, Don McCurdy's gltf viewer, glitch) have only been selected because of previous experience with these tools. This document is meant primarily as a summary of the offering, and will be extended with details where necessary.
+
+### Finding Relief
+
+[Terrain-Party](https://terrain.party) is an Open Source tool for getting real-world height maps from different locations of the planet. This tool can export a monochrome height map image of a section of the USGS data-set that can be imported into blender
+
+### Blender (Think of a witty section title) 
+
+Blender is an open source 3D modeling tool that is used extensively in hobbyist and production grade projects. To produce a 3d representation of the height map image imported, we make use of the displacement modifier and a simple plane object subdivided to the granularity required by the user. Blender also makes it dead simple to export to many of file formats used for viewing models in other programs and on the web. Choosing the GLTF format, we will then export the mesh landscape and move to the next step.
+
+### Viewing on the Web
+
+Don McCurdy is an active member of many of the WebVR communities, inventor of the Supermedium VR webplatform, and central developer for the GLTF fileformat standard. As such, it is less than surprising that he also has created a wonderful tool for viewing GLTF files known as [gltf-viewer](https://gltf-viewer.donmccurdy.com/). On this page, you can upload the resulting gltf/glb (binary format of gltf) and view the model on the web! 
+
+Glitch is another incredible platform for sharing web programming with a snap of your fingers. Landing on their main site look up an AFrame scene that you can remix (modify and make your own), and then upload the gltf/glb file to the assets folder. Following this you can change the source of the gltf model element and clicking on "Show" button in the top of the window takes you to a live scene in which you may stand upon your landscape and look around.
+
+
+
+
+
+
+
 ## Web VR & 3D Modeling 
 
 ![](https://drive.google.com/uc?expert=download&id=1gr1N6E1zURNMqfPGNDiqy5QsupdF8SQ9)
