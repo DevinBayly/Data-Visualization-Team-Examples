@@ -82,10 +82,9 @@ Built originally for Sarah Beth Burger, Department of Psychology, as part of her
 ### D. Melanogaster Glial Cell
 Data owner is Dr. Lynne Oland, and Ernesto Hernandez of the University of Arizona Department of Neuroscience. Reconstruction and animation done by Christine Deer of UITS Research Technologies Data Visualization Team.  Shared with permission.
 * Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found [here](https://youtu.be/mmG_22AdiqI) on youtube
+* Publication using the analysis shown above can be found at [here] (https://onlinelibrary.wiley.com/doi/full/10.1002/cne.24852)
+* Alternate link to the publication exists [here] (https://www.researchgate.net/publication/338438125_The_astrocyte_network_in_the_ventral_nerve_cord_neuropil_of_the_Drosophila_third-instar_larva)
 
-## Quantification
-### Spots within a set radius around a surface object. EMPTY
-* Video ([src]())
 
 ## Tracking
 ### Adipose Microtubule +end tip associated tracking
@@ -100,9 +99,16 @@ Data owner is Dr. Paul Langlais, and Sara Parker of the University of Arizona Co
 Data Owner is Dr. Jim Schweigerling and Eddie LaVilla of the University of Arizona Department of Optics.  Blender simulation of eye position by Christine Deer of the UITS Research Technologies Data Visualization Team.  Shared with permission.
 * Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
 
-## Animated Scientific Methods
-### MiniLEO methods EMPTY
-* Video ([src]()) of animated methods for the MiniLEO project done at the request of Yadi Wang.  The video can be found here [here]()
+## Animated Scientific Methods and Data
+### MiniLEO methods
+* Video ([src](https://drive.google.com/open?id=1WGMi8AK7sE4virQaHhBqf3DSO7rfkLRi)) of animated methods for the MiniLEO project done at the request of Yadi Wang.  The video can be found here [here](https://youtu.be/JiZEc-HRubE)
+
+### MiniLEO Data Communication
+* Video ([src](https://drive.google.com/open?id=1PCLuDTDSSt1umL0354LJUAia_k3fG9iZ)) of data representation for the MiniLEO project done in collaboration with Yadi Wang.  The video can be found here [here](https://youtu.be/RdtAxqnKeig)
+
+
+### Geographic Informational support
+* Map ([src]() was made by Christine Deer at the behest of Celeste Gonzalez and Jeannine Relly of the University of Arizona (Journalism/School of Governement and Public Policy).  The map itself uses the shapefile made by Mark Hoel () and data from [link] (https://articulo19.org/periodistasasesinados/).  
 
 # Example Video Loops
 
