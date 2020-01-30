@@ -108,7 +108,7 @@ Data Owner is Dr. Jim Schweigerling and Eddie LaVilla of the University of Arizo
 
 
 ### Geographic Informational support
-* Map ([src]() was made by Christine Deer at the behest of Celeste Gonzalez and Jeannine Relly of the University of Arizona (Journalism/School of Governement and Public Policy).  The map itself uses the shapefile made by Mark Hoel () and data from [link] (https://articulo19.org/periodistasasesinados/).  
+* Map ([src](https://drive.google.com/open?id=1D8BwEFvqallwYyVa8oIskzUo23CoogeP) is a map made by Christine Deer at the behest of Celeste Gonzalez and Jeannine Relly of the University of Arizona (Journalism/School of Governement and Public Policy) using ArcGIS Pro.  The map itself uses the shapefile made by Mark Hoel (used with permission) and data from [link] (https://articulo19.org/periodistasasesinados/).  
 
 # Example Video Loops
 
